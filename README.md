@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andres</h1>
 <h3 align="center">I am a Systems Engineering student from Colombia, passionate about mobile development</h3>
 
+- 🔭 I’m currently studying on Universidad de Medellín ...
+- 🌱  I’m currently learning Swift, Swift UI, UIkit, Springboot and dynamic data structure ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
